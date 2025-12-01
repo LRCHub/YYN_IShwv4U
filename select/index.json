@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "恋心",
+  "base_artist": "NANASE AIKAWA",
+  "createdAt": "2025-12-01T13:18:16.924382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/01_恋心_Lia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ごめんね、恋心",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/02_ごめんね、恋心_SHISHAMO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/03_恋心_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "相川七瀬",
+      "has_synced": true,
+      "path": "select/04_恋心_相川七瀬.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋心 (KOI-GOKORO)",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/05_恋心_(KOI-GOKORO)_B'z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋心(KOI-GOKORO)",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/06_恋心(KOI-GOKORO)_B'z.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "Aikawa Nanase",
+      "has_synced": true,
+      "path": "select/07_恋心_Aikawa_Nanase.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/08_恋心_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋心 輝きながら",
+      "artist": "Naifu",
+      "has_synced": true,
+      "path": "select/09_恋心_輝きながら_Naifu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "Evan Call",
+      "has_synced": false,
+      "path": "select/10_恋心_Evan_Call.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/11_恋心_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋心 ああ無情",
+      "artist": "小美山愛(CV.寿美菜子)、赤崎こころ(CV.豊崎愛生)、鈴村優(CV.麻倉もも)、奥山すみれ(CV.夏川椎菜)、kana(CV.田中あいみ)",
+      "has_synced": true,
+      "path": "select/12_恋心_ああ無情_小美山愛(CV.寿美菜子)、赤崎こころ(CV.豊崎愛生)、鈴村優(CV.麻倉もも)、奥山すみれ(CV.夏川椎菜)、kana(CV.田中あいみ).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋心 ああ無情",
+      "artist": "赤崎こころ(CV.豊崎愛生)、奥山すみれ(CV.夏川椎菜)、kana(CV.田中あいみ)、小美山愛(CV.寿美菜子)、鈴村優(CV.麻倉もも)",
+      "has_synced": false,
+      "path": "select/13_恋心_ああ無情_赤崎こころ(CV.豊崎愛生)、奥山すみれ(CV.夏川椎菜)、kana(CV.田中あいみ)、小美山愛(CV.寿美菜子)、鈴村優(CV.麻倉もも).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋心",
+      "artist": "Bitter & Sweet",
+      "has_synced": false,
+      "path": "select/14_恋心_Bitter_&_Sweet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋心",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_01_恋心_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "恋心",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_02_恋心_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "恋心",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_03_恋心_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "恋心",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_04_恋心_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "恋心、涙色",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_05_恋心、涙色_コブクロ.txt"
+    }
+  ]
+}
